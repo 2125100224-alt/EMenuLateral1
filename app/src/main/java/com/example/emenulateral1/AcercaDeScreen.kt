@@ -1,3 +1,5 @@
+// Pantalla Acerca de
+
 package com.example.emenulateral1
 
 import androidx.compose.foundation.layout.Arrangement
