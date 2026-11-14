@@ -8,8 +8,10 @@ object InicioDestination
 @Serializable
 object ConfiguracionDestination
 
+
 @Serializable
 object PerfilDestination
+
 
 @Serializable
 object AcercaDeDestination
